@@ -5,38 +5,38 @@
     'lastname': 'Ichsanul Isra',
     'organization': 'Refactory',
     'phone': '085277753898',
-    'address': 'Bandung'
+    'address': 'Banda Aceh'
   },
   {
     'id': 2,
-    'firstname': 'Wanda',
-    'lastname': 'Ichsanul Isra',
-    'organization': 'Refactory',
-    'phone': '085277753898',
+    'firstname': 'Abbas',
+    'lastname': 'Adam Az-zuhri',
+    'organization': 'UPT. PUKSI',
+    'phone': '085277753899',
     'address': 'Bandung'
   },
   {
     'id': 3,
-    'firstname': 'Wanda',
-    'lastname': 'Ichsanul Isra',
-    'organization': 'Refactory',
-    'phone': '085277753898',
-    'address': 'Bandung'
+    'firstname': 'Tony',
+    'lastname': 'HR',
+    'organization': 'UPT. PUKSI',
+    'phone': '085377753898',
+    'address': 'Jakarta'
   },
   {
     'id': 4,
-    'firstname': 'Wanda',
-    'lastname': 'Ichsanul Isra',
-    'organization': 'Refactory',
+    'firstname': 'Zaki',
+    'lastname': 'Fuadi',
+    'organization': 'Kominfo',
     'phone': '085277753898',
-    'address': 'Bandung'
+    'address': 'Bandar Lampung'
   },
   {
     'id': 5,
-    'firstname': 'Wanda',
-    'lastname': 'Ichsanul Isra',
-    'organization': 'Refactory',
-    'phone': '085277753898',
-    'address': 'Bandung'
+    'firstname': 'Putri',
+    'lastname': 'Handayani',
+    'organization': 'Telkom Indonesia',
+    'phone': '085277793893',
+    'address': 'Yogyakarta'
   }
 ]
