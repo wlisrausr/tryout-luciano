@@ -15,7 +15,7 @@ const RouterComponent = () => {
       <Scene
         key="showContactDetail"
         component={ShowContactDetail}
-        title={'Detail Contact'}
+        title={'Contact Detail'}
       />
     </Router>
   );
