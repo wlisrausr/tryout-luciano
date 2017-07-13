@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { ScrollView } from 'react-native';
 import ContactDetail from './ContactDetail';
-// import Button from './Button';
 import CustomData from '../contacts.json';
 
 class ContactList extends Component {
